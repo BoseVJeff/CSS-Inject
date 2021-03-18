@@ -1,6 +1,6 @@
 # CSS Inject
 
-![CSS Inject logo](https://github.com/sym3tri/CSS-Inject/raw/master/icon-128.png)
+![CSS Inject logo](https://raw.githubusercontent.com/sym3tri/CSS-Inject/master/images/icon128.png)
 A Chrome Extension that allows injection of any hosted CSS file into any webpage
 
 ## Installation
